@@ -21,6 +21,11 @@ Stored in `data_intermediate` folder
 
 2. [df_within_650_miles_away_from_odessa_from_1964.csv](project/part_1/data_intermediate/df_within_650_miles_away_from_odessa_from_1964.csv): Smoke density for each fire that occured within 650 miles away from Odessa, TX 
 
+## Output files (Jupyter Notebooks and PDF)
+1. [part_1_AQI.ipynb](project/part_1/part_1_AQI.ipynb) in the `project/part_1` folder: analyzed the AQI data gathered using the US EPA Air Index API, includes 1 visual: **Annual Mean AQI and Annual Mean Smoke Density Estimates from 1964 to 2024**
+2. [part_1_wf_distance.ipynb](project/part_1/part_1_wf_distance.ipynb) in the `project/part_1` folder: analyze the USGS wildfire combined dataset and included 2 visuals: **Wildfire Count at Every 50-Mile Interval from Odessa, TX, up to 1800 Miles** and **Total Acres Burned per Year for Fires Occurring within a 650-Mile Radius of Odessa, TX**. Additional smoke density estimate and prediction are also done in this notebook, includes a table: **Predicted Annual Mean Smoke Density Estimates for the Next 25 Years (2025–2050)**
+3. [Part 1 - Common Analysis Written Report.pdf](<project/part_1/Part 1 - Common Analysis Written Report.pdf>) in the `project/part_1` folder: written report on all the `Embedded Graphs` and `Embedded Table` (mentioned below) and reflecting on the collaboration in completing part 1 of the project
+
 ## Embedded Graphs
 1. **Wildfire Count at Every 50-Mile Interval from Odessa, TX, up to 1800 Miles**: [in [part_1_wf_distance.ipynb](project/part_1/part_1_wf_distance.ipynb)] A histogram displaying the number of fires at every 50-mile interval from Odessa, TX, covering all fires up to 1,800 miles away. A red vertical line marks the 650-mile distance.
 

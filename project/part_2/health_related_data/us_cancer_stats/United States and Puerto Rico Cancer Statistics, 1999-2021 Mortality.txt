@@ -1,0 +1,168 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Cancer Sites"	"Cancer Sites Code"	Deaths
+	"Texas"	"48"	"1999"	"1999"	"Respiratory System"	"22010-22060"	9471
+	"Texas"	"48"	"1999"	"1999"	"Nose, Nasal Cavity and Middle Ear"	"22010"	27
+	"Texas"	"48"	"1999"	"1999"	"Larynx"	"22020"	233
+	"Texas"	"48"	"1999"	"1999"	"Lung and Bronchus"	"22030"	9186
+	"Texas"	"48"	"1999"	"1999"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	17
+	"Texas"	"48"	"2000"	"2000"	"Respiratory System"	"22010-22060"	9796
+	"Texas"	"48"	"2000"	"2000"	"Nose, Nasal Cavity and Middle Ear"	"22010"	38
+	"Texas"	"48"	"2000"	"2000"	"Larynx"	"22020"	254
+	"Texas"	"48"	"2000"	"2000"	"Lung and Bronchus"	"22030"	9470
+	"Texas"	"48"	"2000"	"2000"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	20
+	"Texas"	"48"	"2001"	"2001"	"Respiratory System"	"22010-22060"	9678
+	"Texas"	"48"	"2001"	"2001"	"Nose, Nasal Cavity and Middle Ear"	"22010"	34
+	"Texas"	"48"	"2001"	"2001"	"Larynx"	"22020"	230
+	"Texas"	"48"	"2001"	"2001"	"Lung and Bronchus"	"22030"	9395
+	"Texas"	"48"	"2002"	"2002"	"Respiratory System"	"22010-22060"	10093
+	"Texas"	"48"	"2002"	"2002"	"Nose, Nasal Cavity and Middle Ear"	"22010"	34
+	"Texas"	"48"	"2002"	"2002"	"Larynx"	"22020"	234
+	"Texas"	"48"	"2002"	"2002"	"Lung and Bronchus"	"22030"	9797
+	"Texas"	"48"	"2002"	"2002"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	21
+	"Texas"	"48"	"2003"	"2003"	"Respiratory System"	"22010-22060"	10029
+	"Texas"	"48"	"2003"	"2003"	"Nose, Nasal Cavity and Middle Ear"	"22010"	36
+	"Texas"	"48"	"2003"	"2003"	"Larynx"	"22020"	248
+	"Texas"	"48"	"2003"	"2003"	"Lung and Bronchus"	"22030"	9725
+	"Texas"	"48"	"2003"	"2003"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	16
+	"Texas"	"48"	"2004"	"2004"	"Respiratory System"	"22010-22060"	10011
+	"Texas"	"48"	"2004"	"2004"	"Nose, Nasal Cavity and Middle Ear"	"22010"	29
+	"Texas"	"48"	"2004"	"2004"	"Larynx"	"22020"	264
+	"Texas"	"48"	"2004"	"2004"	"Lung and Bronchus"	"22030"	9697
+	"Texas"	"48"	"2005"	"2005"	"Respiratory System"	"22010-22060"	9985
+	"Texas"	"48"	"2005"	"2005"	"Nose, Nasal Cavity and Middle Ear"	"22010"	36
+	"Texas"	"48"	"2005"	"2005"	"Larynx"	"22020"	244
+	"Texas"	"48"	"2005"	"2005"	"Lung and Bronchus"	"22030"	9684
+	"Texas"	"48"	"2005"	"2005"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	17
+	"Texas"	"48"	"2006"	"2006"	"Respiratory System"	"22010-22060"	10021
+	"Texas"	"48"	"2006"	"2006"	"Nose, Nasal Cavity and Middle Ear"	"22010"	28
+	"Texas"	"48"	"2006"	"2006"	"Larynx"	"22020"	250
+	"Texas"	"48"	"2006"	"2006"	"Lung and Bronchus"	"22030"	9723
+	"Texas"	"48"	"2006"	"2006"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	17
+	"Texas"	"48"	"2007"	"2007"	"Respiratory System"	"22010-22060"	9892
+	"Texas"	"48"	"2007"	"2007"	"Nose, Nasal Cavity and Middle Ear"	"22010"	33
+	"Texas"	"48"	"2007"	"2007"	"Larynx"	"22020"	220
+	"Texas"	"48"	"2007"	"2007"	"Lung and Bronchus"	"22030"	9624
+	"Texas"	"48"	"2008"	"2008"	"Respiratory System"	"22010-22060"	9959
+	"Texas"	"48"	"2008"	"2008"	"Nose, Nasal Cavity and Middle Ear"	"22010"	41
+	"Texas"	"48"	"2008"	"2008"	"Larynx"	"22020"	252
+	"Texas"	"48"	"2008"	"2008"	"Lung and Bronchus"	"22030"	9647
+	"Texas"	"48"	"2008"	"2008"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	16
+	"Texas"	"48"	"2009"	"2009"	"Respiratory System"	"22010-22060"	9871
+	"Texas"	"48"	"2009"	"2009"	"Nose, Nasal Cavity and Middle Ear"	"22010"	35
+	"Texas"	"48"	"2009"	"2009"	"Larynx"	"22020"	249
+	"Texas"	"48"	"2009"	"2009"	"Lung and Bronchus"	"22030"	9575
+	"Texas"	"48"	"2010"	"2010"	"Respiratory System"	"22010-22060"	9848
+	"Texas"	"48"	"2010"	"2010"	"Nose, Nasal Cavity and Middle Ear"	"22010"	36
+	"Texas"	"48"	"2010"	"2010"	"Larynx"	"22020"	260
+	"Texas"	"48"	"2010"	"2010"	"Lung and Bronchus"	"22030"	9519
+	"Texas"	"48"	"2010"	"2010"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	24
+	"Texas"	"48"	"2011"	"2011"	"Respiratory System"	"22010-22060"	10034
+	"Texas"	"48"	"2011"	"2011"	"Nose, Nasal Cavity and Middle Ear"	"22010"	42
+	"Texas"	"48"	"2011"	"2011"	"Larynx"	"22020"	269
+	"Texas"	"48"	"2011"	"2011"	"Lung and Bronchus"	"22030"	9705
+	"Texas"	"48"	"2012"	"2012"	"Respiratory System"	"22010-22060"	10001
+	"Texas"	"48"	"2012"	"2012"	"Nose, Nasal Cavity and Middle Ear"	"22010"	32
+	"Texas"	"48"	"2012"	"2012"	"Larynx"	"22020"	283
+	"Texas"	"48"	"2012"	"2012"	"Lung and Bronchus"	"22030"	9665
+	"Texas"	"48"	"2012"	"2012"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	17
+	"Texas"	"48"	"2013"	"2013"	"Respiratory System"	"22010-22060"	9775
+	"Texas"	"48"	"2013"	"2013"	"Nose, Nasal Cavity and Middle Ear"	"22010"	33
+	"Texas"	"48"	"2013"	"2013"	"Larynx"	"22020"	278
+	"Texas"	"48"	"2013"	"2013"	"Lung and Bronchus"	"22030"	9439
+	"Texas"	"48"	"2013"	"2013"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	17
+	"Texas"	"48"	"2014"	"2014"	"Respiratory System"	"22010-22060"	9862
+	"Texas"	"48"	"2014"	"2014"	"Nose, Nasal Cavity and Middle Ear"	"22010"	32
+	"Texas"	"48"	"2014"	"2014"	"Larynx"	"22020"	231
+	"Texas"	"48"	"2014"	"2014"	"Lung and Bronchus"	"22030"	9558
+	"Texas"	"48"	"2014"	"2014"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	31
+	"Texas"	"48"	"2015"	"2015"	"Respiratory System"	"22010-22060"	9487
+	"Texas"	"48"	"2015"	"2015"	"Nose, Nasal Cavity and Middle Ear"	"22010"	40
+	"Texas"	"48"	"2015"	"2015"	"Larynx"	"22020"	257
+	"Texas"	"48"	"2015"	"2015"	"Lung and Bronchus"	"22030"	9155
+	"Texas"	"48"	"2015"	"2015"	"Pleura"	"22050"	17
+	"Texas"	"48"	"2015"	"2015"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	18
+	"Texas"	"48"	"2016"	"2016"	"Respiratory System"	"22010-22060"	9514
+	"Texas"	"48"	"2016"	"2016"	"Nose, Nasal Cavity and Middle Ear"	"22010"	36
+	"Texas"	"48"	"2016"	"2016"	"Larynx"	"22020"	262
+	"Texas"	"48"	"2016"	"2016"	"Lung and Bronchus"	"22030"	9193
+	"Texas"	"48"	"2016"	"2016"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	21
+	"Texas"	"48"	"2017"	"2017"	"Respiratory System"	"22010-22060"	9408
+	"Texas"	"48"	"2017"	"2017"	"Nose, Nasal Cavity and Middle Ear"	"22010"	39
+	"Texas"	"48"	"2017"	"2017"	"Larynx"	"22020"	237
+	"Texas"	"48"	"2017"	"2017"	"Lung and Bronchus"	"22030"	9109
+	"Texas"	"48"	"2017"	"2017"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	20
+	"Texas"	"48"	"2018"	"2018"	"Respiratory System"	"22010-22060"	9053
+	"Texas"	"48"	"2018"	"2018"	"Nose, Nasal Cavity and Middle Ear"	"22010"	36
+	"Texas"	"48"	"2018"	"2018"	"Larynx"	"22020"	269
+	"Texas"	"48"	"2018"	"2018"	"Lung and Bronchus"	"22030"	8725
+	"Texas"	"48"	"2018"	"2018"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	20
+	"Texas"	"48"	"2019"	"2019"	"Respiratory System"	"22010-22060"	9080
+	"Texas"	"48"	"2019"	"2019"	"Nose, Nasal Cavity and Middle Ear"	"22010"	39
+	"Texas"	"48"	"2019"	"2019"	"Larynx"	"22020"	285
+	"Texas"	"48"	"2019"	"2019"	"Lung and Bronchus"	"22030"	8723
+	"Texas"	"48"	"2019"	"2019"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	29
+	"Texas"	"48"	"2020"	"2020"	"Respiratory System"	"22010-22060"	9143
+	"Texas"	"48"	"2020"	"2020"	"Nose, Nasal Cavity and Middle Ear"	"22010"	38
+	"Texas"	"48"	"2020"	"2020"	"Larynx"	"22020"	277
+	"Texas"	"48"	"2020"	"2020"	"Lung and Bronchus"	"22030"	8789
+	"Texas"	"48"	"2020"	"2020"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	33
+	"Texas"	"48"	"2021"	"2021"	"Respiratory System"	"22010-22060"	8755
+	"Texas"	"48"	"2021"	"2021"	"Nose, Nasal Cavity and Middle Ear"	"22010"	48
+	"Texas"	"48"	"2021"	"2021"	"Larynx"	"22020"	263
+	"Texas"	"48"	"2021"	"2021"	"Lung and Bronchus"	"22030"	8408
+	"Texas"	"48"	"2021"	"2021"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	32
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2021 Mortality"
+"Query Parameters:"
+"Cancer Sites: Respiratory System; Nose, Nasal Cavity and Middle Ear; Larynx; Lung and Bronchus; Pleura; Trachea, Mediastinum and"
+"Other Respiratory Organs"
+"State: Texas (48)"
+"Group By: State; Year; Cancer Sites"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2021.html for more information."
+"---"
+"Query Date: Nov 16, 2024 6:18:00 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2021, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2024. Accessed at"
+"http://wonder.cdc.gov/CancerMort-v2021.html on Nov 16, 2024 6:18:00 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/CancerMort-v2021.html#Suppressed."
+"2. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"3. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"4. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV)"
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS"
+"death counts have been moved to the Miscellaneous category."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

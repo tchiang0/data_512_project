@@ -1,0 +1,166 @@
+"Notes"	"States"	"States Code"	"Year"	"Year Code"	"Cancer Sites"	"Cancer Sites Code"	Count	Population	Age-Adjusted Rate	Age-Adjusted Rate Lower 95% Confidence Interval	Age-Adjusted Rate Upper 95% Confidence Interval	Age-Adjusted Rate Standard Error	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Crude Rate Standard Error
+	"Texas"	"48"	"1999"	"1999"	"Respiratory System"	"22010-22060"	13015	20558220	77.3	76.0	78.7	0.7	63.3	62.2	64.4	0.6
+	"Texas"	"48"	"1999"	"1999"	"Nose, Nasal Cavity and Middle Ear"	"22010"	134	20558220	0.8	0.6	0.9	0.1	0.7	0.5	0.8	0.1
+	"Texas"	"48"	"1999"	"1999"	"Larynx"	"22020"	857	20558220	5.0	4.6	5.3	0.2	4.2	3.9	4.5	0.1
+	"Texas"	"48"	"1999"	"1999"	"Lung and Bronchus"	"22030"	11969	20558220	71.3	70.0	72.6	0.7	58.2	57.2	59.3	0.5
+	"Texas"	"48"	"1999"	"1999"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	49	20558220	0.3	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2000"	"2000"	"Respiratory System"	"22010-22060"	12958	20944499	75.4	74.1	76.7	0.7	61.9	60.8	62.9	0.5
+	"Texas"	"48"	"2000"	"2000"	"Nose, Nasal Cavity and Middle Ear"	"22010"	131	20944499	0.7	0.6	0.9	0.1	0.6	0.5	0.7	0.1
+	"Texas"	"48"	"2000"	"2000"	"Larynx"	"22020"	798	20944499	4.5	4.2	4.8	0.2	3.8	3.6	4.1	0.1
+	"Texas"	"48"	"2000"	"2000"	"Lung and Bronchus"	"22030"	11980	20944499	69.9	68.7	71.2	0.6	57.2	56.2	58.2	0.5
+	"Texas"	"48"	"2000"	"2000"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	36	20944499	0.2	0.1	0.3	0.0	0.2	0.1	0.2	0.0
+	"Texas"	"48"	"2001"	"2001"	"Respiratory System"	"22010-22060"	13374	21319622	76.4	75.1	77.7	0.7	62.7	61.7	63.8	0.5
+	"Texas"	"48"	"2001"	"2001"	"Nose, Nasal Cavity and Middle Ear"	"22010"	143	21319622	0.8	0.7	0.9	0.1	0.7	0.6	0.8	0.1
+	"Texas"	"48"	"2001"	"2001"	"Larynx"	"22020"	822	21319622	4.5	4.2	4.9	0.2	3.9	3.6	4.1	0.1
+	"Texas"	"48"	"2001"	"2001"	"Lung and Bronchus"	"22030"	12372	21319622	70.8	69.6	72.1	0.6	58.0	57.0	59.1	0.5
+	"Texas"	"48"	"2001"	"2001"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	35	21319622	0.2	0.1	0.2	0.0	0.2	0.1	0.2	0.0
+	"Texas"	"48"	"2002"	"2002"	"Respiratory System"	"22010-22060"	13601	21690325	75.9	74.6	77.2	0.7	62.7	61.7	63.8	0.5
+	"Texas"	"48"	"2002"	"2002"	"Nose, Nasal Cavity and Middle Ear"	"22010"	155	21690325	0.8	0.7	1.0	0.1	0.7	0.6	0.8	0.1
+	"Texas"	"48"	"2002"	"2002"	"Larynx"	"22020"	819	21690325	4.4	4.1	4.7	0.2	3.8	3.5	4.0	0.1
+	"Texas"	"48"	"2002"	"2002"	"Lung and Bronchus"	"22030"	12576	21690325	70.4	69.2	71.7	0.6	58.0	57.0	59.0	0.5
+	"Texas"	"48"	"2002"	"2002"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	44	21690325	0.2	0.2	0.3	0.0	0.2	0.1	0.3	0.0
+	"Texas"	"48"	"2003"	"2003"	"Respiratory System"	"22010-22060"	13933	22030931	75.9	74.6	77.1	0.6	63.2	62.2	64.3	0.5
+	"Texas"	"48"	"2003"	"2003"	"Nose, Nasal Cavity and Middle Ear"	"22010"	138	22030931	0.7	0.6	0.8	0.1	0.6	0.5	0.7	0.1
+	"Texas"	"48"	"2003"	"2003"	"Larynx"	"22020"	844	22030931	4.4	4.1	4.7	0.2	3.8	3.6	4.1	0.1
+	"Texas"	"48"	"2003"	"2003"	"Lung and Bronchus"	"22030"	12899	22030931	70.5	69.3	71.7	0.6	58.5	57.5	59.6	0.5
+	"Texas"	"48"	"2003"	"2003"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	49	22030931	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2004"	"2004"	"Respiratory System"	"22010-22060"	13819	22394023	73.5	72.3	74.8	0.6	61.7	60.7	62.7	0.5
+	"Texas"	"48"	"2004"	"2004"	"Nose, Nasal Cavity and Middle Ear"	"22010"	153	22394023	0.8	0.7	0.9	0.1	0.7	0.6	0.8	0.1
+	"Texas"	"48"	"2004"	"2004"	"Larynx"	"22020"	817	22394023	4.1	3.9	4.4	0.1	3.6	3.4	3.9	0.1
+	"Texas"	"48"	"2004"	"2004"	"Lung and Bronchus"	"22030"	12793	22394023	68.3	67.1	69.5	0.6	57.1	56.1	58.1	0.5
+	"Texas"	"48"	"2004"	"2004"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	50	22394023	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2005"	"2005"	"Respiratory System"	"22010-22060"	14138	22773020	73.2	72.0	74.4	0.6	62.1	61.1	63.1	0.5
+	"Texas"	"48"	"2005"	"2005"	"Nose, Nasal Cavity and Middle Ear"	"22010"	159	22773020	0.8	0.7	0.9	0.1	0.7	0.6	0.8	0.1
+	"Texas"	"48"	"2005"	"2005"	"Larynx"	"22020"	782	22773020	3.9	3.6	4.2	0.1	3.4	3.2	3.7	0.1
+	"Texas"	"48"	"2005"	"2005"	"Lung and Bronchus"	"22030"	13145	22773020	68.3	67.1	69.5	0.6	57.7	56.7	58.7	0.5
+	"Texas"	"48"	"2005"	"2005"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	43	22773020	0.2	0.1	0.3	0.0	0.2	0.1	0.3	0.0
+	"Texas"	"48"	"2006"	"2006"	"Respiratory System"	"22010-22060"	13964	23359580	69.9	68.8	71.1	0.6	59.8	58.8	60.8	0.5
+	"Texas"	"48"	"2006"	"2006"	"Nose, Nasal Cavity and Middle Ear"	"22010"	134	23359580	0.6	0.5	0.8	0.1	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2006"	"2006"	"Larynx"	"22020"	840	23359580	4.0	3.7	4.3	0.1	3.6	3.4	3.8	0.1
+	"Texas"	"48"	"2006"	"2006"	"Lung and Bronchus"	"22030"	12930	23359580	65.0	63.9	66.2	0.6	55.4	54.4	56.3	0.5
+	"Texas"	"48"	"2006"	"2006"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	48	23359580	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2007"	"2007"	"Respiratory System"	"22010-22060"	14358	23831983	69.8	68.7	71.0	0.6	60.2	59.3	61.2	0.5
+	"Texas"	"48"	"2007"	"2007"	"Nose, Nasal Cavity and Middle Ear"	"22010"	158	23831983	0.7	0.6	0.8	0.1	0.7	0.6	0.8	0.1
+	"Texas"	"48"	"2007"	"2007"	"Larynx"	"22020"	895	23831983	4.1	3.8	4.4	0.1	3.8	3.5	4.0	0.1
+	"Texas"	"48"	"2007"	"2007"	"Lung and Bronchus"	"22030"	13252	23831983	64.8	63.7	65.9	0.6	55.6	54.7	56.6	0.5
+	"Texas"	"48"	"2007"	"2007"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	46	23831983	0.2	0.1	0.3	0.0	0.2	0.1	0.3	0.0
+	"Texas"	"48"	"2008"	"2008"	"Respiratory System"	"22010-22060"	14490	24309039	68.5	67.3	69.6	0.6	59.6	58.6	60.6	0.5
+	"Texas"	"48"	"2008"	"2008"	"Nose, Nasal Cavity and Middle Ear"	"22010"	149	24309039	0.7	0.6	0.8	0.1	0.6	0.5	0.7	0.1
+	"Texas"	"48"	"2008"	"2008"	"Larynx"	"22020"	845	24309039	3.8	3.5	4.0	0.1	3.5	3.2	3.7	0.1
+	"Texas"	"48"	"2008"	"2008"	"Lung and Bronchus"	"22030"	13446	24309039	63.8	62.7	64.9	0.6	55.3	54.4	56.3	0.5
+	"Texas"	"48"	"2008"	"2008"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	43	24309039	0.2	0.1	0.3	0.0	0.2	0.1	0.2	0.0
+	"Texas"	"48"	"2009"	"2009"	"Respiratory System"	"22010-22060"	14033	24801761	64.3	63.2	65.4	0.6	56.6	55.6	57.5	0.5
+	"Texas"	"48"	"2009"	"2009"	"Nose, Nasal Cavity and Middle Ear"	"22010"	151	24801761	0.7	0.6	0.8	0.1	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2009"	"2009"	"Larynx"	"22020"	887	24801761	3.8	3.5	4.0	0.1	3.6	3.3	3.8	0.1
+	"Texas"	"48"	"2009"	"2009"	"Lung and Bronchus"	"22030"	12933	24801761	59.6	58.5	60.6	0.5	52.1	51.3	53.1	0.5
+	"Texas"	"48"	"2009"	"2009"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	58	24801761	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2010"	"2010"	"Respiratory System"	"22010-22060"	14075	25238866	62.7	61.7	63.8	0.5	55.8	54.8	56.7	0.5
+	"Texas"	"48"	"2010"	"2010"	"Nose, Nasal Cavity and Middle Ear"	"22010"	152	25238866	0.6	0.5	0.8	0.1	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2010"	"2010"	"Larynx"	"22020"	808	25238866	3.4	3.1	3.6	0.1	3.2	3.0	3.4	0.1
+	"Texas"	"48"	"2010"	"2010"	"Lung and Bronchus"	"22030"	13050	25238866	58.4	57.4	59.5	0.5	51.7	50.8	52.6	0.5
+	"Texas"	"48"	"2010"	"2010"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	55	25238866	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2011"	"2011"	"Respiratory System"	"22010-22060"	13933	25630837	60.1	59.1	61.1	0.5	54.4	53.5	55.3	0.5
+	"Texas"	"48"	"2011"	"2011"	"Nose, Nasal Cavity and Middle Ear"	"22010"	150	25630837	0.6	0.5	0.7	0.1	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2011"	"2011"	"Larynx"	"22020"	868	25630837	3.5	3.3	3.8	0.1	3.4	3.2	3.6	0.1
+	"Texas"	"48"	"2011"	"2011"	"Lung and Bronchus"	"22030"	12856	25630837	55.7	54.8	56.7	0.5	50.2	49.3	51.0	0.4
+	"Texas"	"48"	"2011"	"2011"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	51	25630837	0.2	0.1	0.3	0.0	0.2	0.1	0.3	0.0
+	"Texas"	"48"	"2012"	"2012"	"Respiratory System"	"22010-22060"	14378	26056872	60.3	59.3	61.3	0.5	55.2	54.3	56.1	0.5
+	"Texas"	"48"	"2012"	"2012"	"Nose, Nasal Cavity and Middle Ear"	"22010"	166	26056872	0.7	0.6	0.8	0.1	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2012"	"2012"	"Larynx"	"22020"	835	26056872	3.3	3.0	3.5	0.1	3.2	3.0	3.4	0.1
+	"Texas"	"48"	"2012"	"2012"	"Lung and Bronchus"	"22030"	13319	26056872	56.2	55.2	57.1	0.5	51.1	50.3	52.0	0.4
+	"Texas"	"48"	"2012"	"2012"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	52	26056872	0.2	0.2	0.3	0.0	0.2	0.1	0.3	0.0
+	"Texas"	"48"	"2013"	"2013"	"Respiratory System"	"22010-22060"	14336	26438948	58.4	57.5	59.4	0.5	54.2	53.3	55.1	0.5
+	"Texas"	"48"	"2013"	"2013"	"Nose, Nasal Cavity and Middle Ear"	"22010"	172	26438948	0.7	0.6	0.8	0.1	0.7	0.6	0.8	0.0
+	"Texas"	"48"	"2013"	"2013"	"Larynx"	"22020"	852	26438948	3.3	3.0	3.5	0.1	3.2	3.0	3.4	0.1
+	"Texas"	"48"	"2013"	"2013"	"Lung and Bronchus"	"22030"	13233	26438948	54.2	53.3	55.1	0.5	50.1	49.2	50.9	0.4
+	"Texas"	"48"	"2013"	"2013"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	71	26438948	0.3	0.2	0.3	0.0	0.3	0.2	0.3	0.0
+	"Texas"	"48"	"2014"	"2014"	"Respiratory System"	"22010-22060"	14454	26908012	57.2	56.2	58.1	0.5	53.7	52.8	54.6	0.4
+	"Texas"	"48"	"2014"	"2014"	"Nose, Nasal Cavity and Middle Ear"	"22010"	154	26908012	0.6	0.5	0.7	0.0	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2014"	"2014"	"Larynx"	"22020"	832	26908012	3.1	2.9	3.3	0.1	3.1	2.9	3.3	0.1
+	"Texas"	"48"	"2014"	"2014"	"Lung and Bronchus"	"22030"	13397	26908012	53.2	52.3	54.2	0.5	49.8	48.9	50.6	0.4
+	"Texas"	"48"	"2014"	"2014"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	65	26908012	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2015"	"2015"	"Respiratory System"	"22010-22060"	14390	27398609	55.1	54.1	56.0	0.5	52.5	51.7	53.4	0.4
+	"Texas"	"48"	"2015"	"2015"	"Nose, Nasal Cavity and Middle Ear"	"22010"	173	27398609	0.7	0.6	0.8	0.1	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2015"	"2015"	"Larynx"	"22020"	847	27398609	3.1	2.9	3.3	0.1	3.1	2.9	3.3	0.1
+	"Texas"	"48"	"2015"	"2015"	"Lung and Bronchus"	"22030"	13312	27398609	51.1	50.3	52.0	0.5	48.6	47.8	49.4	0.4
+	"Texas"	"48"	"2015"	"2015"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	55	27398609	0.2	0.1	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2016"	"2016"	"Respiratory System"	"22010-22060"	14626	27828636	54.6	53.7	55.5	0.5	52.6	51.7	53.4	0.4
+	"Texas"	"48"	"2016"	"2016"	"Nose, Nasal Cavity and Middle Ear"	"22010"	160	27828636	0.6	0.5	0.7	0.0	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2016"	"2016"	"Larynx"	"22020"	828	27828636	2.9	2.7	3.1	0.1	3.0	2.8	3.2	0.1
+	"Texas"	"48"	"2016"	"2016"	"Lung and Bronchus"	"22030"	13580	27828636	50.9	50.0	51.8	0.4	48.8	48.0	49.6	0.4
+	"Texas"	"48"	"2016"	"2016"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	50	27828636	0.2	0.1	0.2	0.0	0.2	0.1	0.2	0.0
+	"Texas"	"48"	"2017"	"2017"	"Respiratory System"	"22010-22060"	14860	28189190	53.9	53.0	54.8	0.5	52.7	51.9	53.6	0.4
+	"Texas"	"48"	"2017"	"2017"	"Nose, Nasal Cavity and Middle Ear"	"22010"	158	28189190	0.6	0.5	0.7	0.0	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2017"	"2017"	"Larynx"	"22020"	838	28189190	2.9	2.7	3.1	0.1	3.0	2.8	3.2	0.1
+	"Texas"	"48"	"2017"	"2017"	"Lung and Bronchus"	"22030"	13803	28189190	50.2	49.4	51.1	0.4	49.0	48.2	49.8	0.4
+	"Texas"	"48"	"2017"	"2017"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	59	28189190	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2018"	"2018"	"Respiratory System"	"22010-22060"	15230	28507509	53.5	52.7	54.4	0.4	53.4	52.6	54.3	0.4
+	"Texas"	"48"	"2018"	"2018"	"Nose, Nasal Cavity and Middle Ear"	"22010"	180	28507509	0.6	0.5	0.7	0.0	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2018"	"2018"	"Larynx"	"22020"	882	28507509	2.9	2.7	3.1	0.1	3.1	2.9	3.3	0.1
+	"Texas"	"48"	"2018"	"2018"	"Lung and Bronchus"	"22030"	14106	28507509	49.7	48.9	50.6	0.4	49.5	48.7	50.3	0.4
+	"Texas"	"48"	"2018"	"2018"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	53	28507509	0.2	0.1	0.3	0.0	0.2	0.1	0.2	0.0
+	"Texas"	"48"	"2019"	"2019"	"Respiratory System"	"22010-22060"	15018	28855292	51.2	50.3	52.0	0.4	52.0	51.2	52.9	0.4
+	"Texas"	"48"	"2019"	"2019"	"Nose, Nasal Cavity and Middle Ear"	"22010"	191	28855292	0.6	0.6	0.7	0.0	0.7	0.6	0.8	0.0
+	"Texas"	"48"	"2019"	"2019"	"Larynx"	"22020"	878	28855292	2.8	2.6	3.0	0.1	3.0	2.8	3.3	0.1
+	"Texas"	"48"	"2019"	"2019"	"Lung and Bronchus"	"22030"	13881	28855292	47.5	46.7	48.3	0.4	48.1	47.3	48.9	0.4
+	"Texas"	"48"	"2019"	"2019"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	62	28855292	0.2	0.2	0.3	0.0	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"2020"	"2020"	"Respiratory System"	"22010-22060"	13886	29232474	45.9	45.1	46.6	0.4	47.5	46.7	48.3	0.4
+	"Texas"	"48"	"2020"	"2020"	"Nose, Nasal Cavity and Middle Ear"	"22010"	184	29232474	0.6	0.5	0.7	0.0	0.6	0.5	0.7	0.0
+	"Texas"	"48"	"2020"	"2020"	"Larynx"	"22020"	830	29232474	2.6	2.4	2.8	0.1	2.8	2.6	3.0	0.1
+	"Texas"	"48"	"2020"	"2020"	"Lung and Bronchus"	"22030"	12815	29232474	42.4	41.7	43.2	0.4	43.8	43.1	44.6	0.4
+	"Texas"	"48"	"2020"	"2020"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	49	29232474	0.2	0.1	0.2	0.0	0.2	0.1	0.2	0.0
+	"Texas"	"48"	"2021"	"2021"	"Respiratory System"	"22010-22060"	14129	29558864	45.5	44.7	46.3	0.4	47.8	47.0	48.6	0.4
+	"Texas"	"48"	"2021"	"2021"	"Nose, Nasal Cavity and Middle Ear"	"22010"	206	29558864	0.7	0.6	0.8	0.0	0.7	0.6	0.8	0.0
+	"Texas"	"48"	"2021"	"2021"	"Larynx"	"22020"	856	29558864	2.7	2.5	2.8	0.1	2.9	2.7	3.1	0.1
+	"Texas"	"48"	"2021"	"2021"	"Lung and Bronchus"	"22030"	13001	29558864	42.0	41.3	42.7	0.4	44.0	43.2	44.7	0.4
+	"Texas"	"48"	"2021"	"2021"	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	61	29558864	0.2	0.1	0.2	0.0	0.2	0.2	0.3	0.0
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2021 Incidence"
+"Query Parameters:"
+"Cancer Sites: Respiratory System; Nose, Nasal Cavity and Middle Ear; Larynx; Lung and Bronchus; Pleura; Trachea, Mediastinum and"
+"Other Respiratory Organs"
+"States: Texas (48)"
+"Group By: States; Year; Cancer Sites"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2021.html for more information."
+"---"
+"Query Date: Nov 16, 2024 6:15:52 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2021, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2023 submission; 2024"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2021.html on Nov 16, 2024 6:15:52 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Statistics are suppressed to protect personal privacy, for the following conditions: <ol><li> Data are suppressed if the"
+"figures represent fewer than 16 cases for the specific category in the table cell. </li><li> Counts and rates are suppressed for"
+"cells at the Metropolitan Statistical Area (MSA) level for the race categories ""American Indian or Alaska Native"" or ""Asian"
+"or Pacific Islander"" when the specific category's population for rate calculations is less than 50,000 persons. </li><li> Data"
+"are suppressed at the state and MSA level for certain race and ethnicity groups: <ul><li> American Indian or Alaska Native data"
+"are suppressed at the state and MSA level for residents of Illinois, Kansas, New Jersey, and New York; </li><li> Hispanic Asian"
+"or Pacific Islander and Hispanic Black or African American data are suppressed at the state and MSA level for residents of"
+"Kansas; </li><li> Race by ethnicity data are suppressed for state specific statistics for residents of North Dakota and"
+"Wisconsin. Ethnicity data are also suppressed for residents of North Dakota and Wisconsin. </li></ul> </li></ol> States decide"
+"whether to suppress data for specific race and ethnicity categories. The suppression criteria may vary in previous releases of"
+"these data More information: http://wonder.cdc.gov/wonder/help/cancer-v2021.html#Confidentiality."
+"2. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"3. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"4. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

@@ -98,3 +98,17 @@ Leverages historical data and exogenous smoke density estimates to forecast key 
 - Visualizations to highlight trends and model outputs
 
 This notebook aims to provide actionable insights into the long-term health impacts of wildfire smoke, supporting public health planning and policy-making. The outputs include visualizations and predictions designed for use by stakeholders such as city councils, health departments, and policymakers.
+
+## [Project Final Report](<Project Final Report.pdf>)
+This report presents a comprehensive analysis of the impact of wildfire smoke on public health in Odessa, Texas, with a focus on historical trends and future projections for smoke density and health indicators. The study integrates statistical models, including ARIMA and VARMAX, to estimate and forecast the effects of wildfire smoke from 1964–2050. Using a human-centered data science approach, the report explores the intersection of environmental and health data, covering respiratory conditions, cancer rates, and birth defects.
+
+The report is divided into several sections:
+1. **Introduction**: Provides an overview of Odessa's environmental challenges, emphasizing the dual burden of industrial pollution and increasing wildfire smoke.
+2. **Background/Related Work**: Discusses historical wildfire data and prior research to establish the context for smoke estimation and its public health implications.
+3. **Methodology**: Details the statistical approaches used to estimate and forecast smoke and health indicators, including the use of fabricated formulas and advanced modeling techniques.
+4. **Findings**: Presents historical trends and forecast results, highlighting correlations between smoke density and health outcomes.
+5. **Discussion/Implications**: Reflects on the importance of the findings, offering recommendations for policymakers and residents to mitigate future health risks.
+6. **Limitations**: Acknowledges the challenges and constraints of the study, including data gaps and model assumptions.
+7. **Conclusion**: Summarizes the key insights and calls for immediate and long-term actions to address the rising public health challenges.
+
+This report is intended to guide policymakers, city planners, and community members in addressing the compounded risks posed by wildfire smoke and industrial pollution, with the ultimate goal of fostering a healthier and more sustainable future for Odessa and its residents.
